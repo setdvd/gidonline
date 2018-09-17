@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/fetcher-elm/elm-stuff" />
+      <excludeFolder url="file://$MODULE_DIR$/fetcher-purs/.pulp-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/fetcher-purs/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/fetcher-purs/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/fetcher-purs/output" />
+      <excludeFolder url="file://$MODULE_DIR$/fetcher-ts/node_modules" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
